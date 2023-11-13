@@ -1,0 +1,7 @@
+{
+  "name": "copyable-notes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
